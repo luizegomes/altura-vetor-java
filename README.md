@@ -40,4 +40,44 @@ Este programa em Java lê os dados de **N pessoas** (nome, idade e altura) e rea
 ---
 
 ## 🖥️ Exemplo de execução 
+<img width="607" height="521" alt="execucao" src="https://github.com/user-attachments/assets/7b4b399b-ed9c-494d-9e57-ca4b1cd6fa19" />
 
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- **Java** (versão 8 ou superior)  
+- **Scanner** para entrada de dados  
+- **Locale.US** para padronizar separador decimal com ponto (`.`)  
+
+---
+
+## ▶️ Como compilar e executar
+
+### Pré-requisitos
+- Ter o **Java JDK** instalado (versão 8 ou superior).  
+- Verificar se o `javac` e o `java` estão configurados no **PATH** do sistema.  
+
+Para confirmar, execute no terminal:
+`java -version`
+`javac -version`
+
+**Passo 1: Salvar o código**
+
+Salve o código em um arquivo chamado
+
+`AlturasVetor.java`
+
+**Passo 2: Compilar o programa**
+
+No terminal, navegue até a pasta onde o arquivo foi salvo e execute:
+
+
+`javac AlturasVetor.java`
+
+Isso irá gerar o arquivo AlturasVetor.class (bytecode do Java).
+
+**Passo 3: Executar o programa**
+
+Ainda no terminal, rode:
+`java AlturasVetor`
